@@ -1,1 +1,1 @@
-## This is a repo for projects completed at the end of each modeling phase.
+## This is a repo for a regression projects completed at Codeup.  This is the first project completed during the curriculum.  The Zillow dataset was used and regression models were used to predict home sale logerrors.
